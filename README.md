@@ -10,5 +10,4 @@
 
 There are some mouse that smoking:
 
-
-![Loading...](https://media.discordapp.net/attachments/1014260717949562970/1190631714368786533/rat_smoke_ss13_hd.gif?ex=66ffdeb1&is=66fe8d31&hm=6cf64ab675df3a89d290b17507dce6b35446622c2570fabd7cc6b0aaa947fac6&=&width=300&height=300)
+![Loading mouse... >:3](https://github.com/Lines25/Lines25/blob/main/mouse_smoking.gif?raw=true)
