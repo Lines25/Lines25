@@ -7,6 +7,7 @@
   - Email me (lines115@duck.com, but for now, only 10-20% chance that I will reply)
 - 😄 Pronouns: He/His (male)
 - ⚡ Fun fact: I'm using Arch btw with HyprLand (and it's have bedrock Linux installed...)
+- ⚡ Another fun fact: I'm under 18
 
 There are some mouse that smoking:
 
