@@ -7,8 +7,7 @@
   - Email me (lines115@duck.com, but for now, only 10-20% chance that I will reply)
 - 😄 Pronouns: He/His (male)
 - ⚡ Fun fact: I'm using Arch btw with HyprLand
-- 🧑‍💻 Another fun fact: I'm under 18
+- 🧑‍💻 Another fun facts: I'm under 18, currently also forcing my own Tulpa (Hello !!!)
 
-There are some mouse that smoking:
 
 ![Loading mouse... >:3](https://github.com/Lines25/Lines25/blob/main/mouse_smoking.gif?raw=true)
