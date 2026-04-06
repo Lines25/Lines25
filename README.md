@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on RenModder, my Ren'Py patcher and mod loader
 - 📫 How to reach me:
   - Via Discord (lines8810)
-  - Email me (lines115@duck.com, but for now, only 10-20% chance that I will reply)
 - 😄 Pronouns: He/His (male)
 - ⚡ Fun fact: I'm using Arch btw with HyprLand
 - 🧑‍💻 Another fun facts: I'm under 18, currently also forcing my own Tulpa (Hello !!!)
