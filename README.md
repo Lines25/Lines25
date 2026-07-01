@@ -5,8 +5,7 @@
 - 📫 How to reach me:
   - Via Discord (lines8810)
 - 😄 Pronouns: He/His (male)
-- ⚡ Fun fact: I'm using Arch btw with HyprLand
-- 🧑‍💻 Another fun facts: I'm under 18, currently also forcing my own Tulpa (Hello !!!)
+- ⚡ Fun fact: I use Arch btw with HyprLand
 
 
 ![Loading mouse... >:3](https://github.com/Lines25/Lines25/blob/main/mouse_smoking.gif?raw=true)
